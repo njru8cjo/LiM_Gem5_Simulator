@@ -1,0 +1,8 @@
+[submodule "gem5"]
+	path = gem5
+	url = https://github.com/njru8cjo/gem5.git
+	branch = LiM
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/njru8cjo/riscv-gnu-toolchain.git
+	branch = LiM
